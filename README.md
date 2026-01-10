@@ -67,7 +67,3 @@ Business performance monitoring
 Data analytics portfolio project
 
 Practice project for dashboards (Power BI / Tableau / Excel)
-
-✅ One-Line Resume / Portfolio Description (Bonus)
-
-Built an interactive PhonePe transaction analytics dashboard to analyze service-wise transaction amount, monthly trends, and payment failure reasons.
